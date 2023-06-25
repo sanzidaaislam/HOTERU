@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1687595414 source:e:\my project\hotel\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"login.h"
+	"add.h"
+	"list.h"
+	"delete1.h"
+	"search.h"
+	"edit.h"
+
+1687594200 e:\my project\hotel\login.h
+
+1687595363 e:\my project\hotel\add.h
+
+1687594432 e:\my project\hotel\list.h
+
+1687594570 e:\my project\hotel\delete1.h
+
+1687594642 e:\my project\hotel\search.h
+
+1687594691 e:\my project\hotel\edit.h
+
+1687662908 source:c:\users\islam\onedrive\desktop\hotel(ekdom_last)\hotel\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"login.h"
+	"add.h"
+	"list.h"
+	"delete1.h"
+	"search.h"
+	"edit.h"
+
+1687662906 c:\users\islam\onedrive\desktop\hotel(ekdom_last)\hotel\login.h
+
+1687622847 c:\users\islam\onedrive\desktop\hotel(ekdom_last)\hotel\add.h
+
+1687594432 c:\users\islam\onedrive\desktop\hotel(ekdom_last)\hotel\list.h
+
+1687627448 c:\users\islam\onedrive\desktop\hotel(ekdom_last)\hotel\delete1.h
+
+1687626774 c:\users\islam\onedrive\desktop\hotel(ekdom_last)\hotel\search.h
+
+1687626774 c:\users\islam\onedrive\desktop\hotel(ekdom_last)\hotel\edit.h
+
+1687666648 source:c:\users\islam\onedrive\desktop\hoteru\hotel\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"login.h"
+	"add.h"
+	"list.h"
+	"delete1.h"
+	"search.h"
+	"edit.h"
+	"exit.h"
+
+1687662906 c:\users\islam\onedrive\desktop\hoteru\hotel\login.h
+
+1687622847 c:\users\islam\onedrive\desktop\hoteru\hotel\add.h
+
+1687594432 c:\users\islam\onedrive\desktop\hoteru\hotel\list.h
+
+1687627448 c:\users\islam\onedrive\desktop\hoteru\hotel\delete1.h
+
+1687626774 c:\users\islam\onedrive\desktop\hoteru\hotel\search.h
+
+1687626774 c:\users\islam\onedrive\desktop\hoteru\hotel\edit.h
+
+1687666417 c:\users\islam\onedrive\desktop\hoteru\hotel\exit.h
+
